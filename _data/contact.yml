@@ -4,16 +4,21 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/0nebell__'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/wonjong-kim'                  # Fill with your Linkedin homepage
+# -
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
@@ -21,10 +26,7 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
 # -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
+
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

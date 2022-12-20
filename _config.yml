@@ -14,17 +14,17 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wonjong Kim                          # the main title
+title: WonvoM                          # the main title
 
-tagline: Ethan's Blog   # it will display as the sub-title
+tagline: Wonjong Kim (Ethan)   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  This is Ethan's dev blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://wonvom.github.io'
@@ -47,6 +47,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/wonjong-kim
+    - https://www.instagram.com/0nebell__
 
 google_site_verification:               # fill in to your verification string
 
@@ -54,7 +55,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-YL33NDBKQV                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
