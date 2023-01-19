@@ -45,9 +45,8 @@ Output: false
 <br>
 <br>
 
-### **Solution**
+### **Solution** <br>
 
-<br>
 ```python
 class Solution:
     def isValid(self, s: str) -> bool:
@@ -105,7 +104,7 @@ Space Complexity : $$ \mathcal{O}(n) $$
 <br>
 
 Citation
-- https://leetcode.com/problems/valid-parentheses/solution/
+- <https://leetcode.com/problems/valid-parentheses/solution/>
 
 <br><br>
 ![Desktop View](/assets/img/whale/whale2.png){: w="300" h="300" }
