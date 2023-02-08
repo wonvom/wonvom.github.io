@@ -82,8 +82,14 @@ ii) left < right
 
 ### **Complexity**
 Time Complexity : $$ \mathcal{O}(logn) $$ <br>
-The n is the length of the nums array. This is because in each iteration, the size of the search space is halved.
-<br><br>
-
+The n is the length of the nums array. This is because in each iteration, the size of the search space is halved. <br><br>
 Space Complexity : $$ \mathcal{O}(1) $$ <br>
 As we only use a few variables.
+
+<br><br><br>
+Citation
+- <https://leetcode.com/problems/search-insert-position/>
+
+
+<br><br>
+![Desktop View](/assets/img/whale/whale4.png){: w="300" h="300" }
