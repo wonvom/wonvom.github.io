@@ -57,7 +57,7 @@ class Solution:
 
 
 ### **Complexity**
-Time Complexity: 
+Time Complexity:
 $$ \mathcal{O}(n) $$ <br>
 The algorithm iterates through the input list nums once, so the time complexity is linear with the size of the input list.
 
