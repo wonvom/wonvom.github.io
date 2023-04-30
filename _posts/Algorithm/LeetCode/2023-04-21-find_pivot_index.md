@@ -1,7 +1,7 @@
 ---
-title: LeetCode75 || 724. Find Pivot Index || +
+title: LeetCode75 || 724. Find Pivot Index | +
 author: wonvom
-date: 2023-04-22 10:00:00 -0800
+date: 2023-04-21 10:00:00 -0800
 categories: [Algorithm, LeetCode]
 tags: [array, pivot index, algorithm, python, linear time, linear space, find pivot index, leetcode, leetcode724]
 math: true

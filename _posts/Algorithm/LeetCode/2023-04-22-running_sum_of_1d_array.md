@@ -1,5 +1,5 @@
 ---
-title: LeetCode75 || 1480. Running Sum of 1D Array || +
+title: LeetCode75 || 1480. Running Sum of 1D Array | +
 author: wonvom
 date: 2023-04-22 8:52:00 -0800
 categories: [Algorithm, LeetCode]

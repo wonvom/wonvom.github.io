@@ -1,7 +1,7 @@
 ---
-title: LeetCode75 || 392. Is Subsequence || +
+title: LeetCode75 || 392. Is Subsequence | +
 author: wonvom
-date: 2023-04-24 12:09:00 -0800
+date: 2023-04-23 12:09:00 -0800
 categories: [Algorithm, LeetCode]
 tags: [string, subsequence, algorithm, python, linear time, leetcode, leetcode392]
 math: true

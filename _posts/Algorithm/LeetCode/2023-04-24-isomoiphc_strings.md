@@ -1,5 +1,5 @@
 ---
-title: LeetCode75 || 205. Isomorphic Strings || +
+title: LeetCode75 || 205. Isomorphic Strings | +
 author: wonvom
 date: 2023-04-24 10:00:00 -0800
 categories: [Algorithm, LeetCode]
