@@ -1,5 +1,5 @@
 ---
-title: LeetCode75 || Merge Two Sorted Lists (Iterative) | +
+title: LeetCode75 || 21. Merge Two Sorted Lists (Iterative) | +
 author: wonvom
 date: 2023-04-25 10:00:00 -0800
 categories: [Algorithm, LeetCode]
