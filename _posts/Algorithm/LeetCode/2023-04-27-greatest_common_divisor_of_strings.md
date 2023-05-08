@@ -74,7 +74,7 @@ The algorithm uses a constant amount of additional space to store variables and 
 <br><br><br>
 Citation
 
-https://leetcode.com/problems/greatest-common-divisor-of-strings/
+- https://leetcode.com/problems/greatest-common-divisor-of-strings/
 
 <br><br>
 ![Desktop View](/assets/img/whale/whale10.png){: w="300" h="300" }

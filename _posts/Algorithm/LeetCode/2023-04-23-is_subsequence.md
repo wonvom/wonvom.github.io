@@ -67,6 +67,6 @@ The algorithm uses constant extra space for the pointers i and j. Therefore, the
 <br><br><br>
 Citation
 
-https://leetcode.com/problems/is-subsequence/
+- https://leetcode.com/problems/is-subsequence/
 <br><br>
 ![Desktop View](/assets/img/whale/whale7.png){: w="300" h="300" }
