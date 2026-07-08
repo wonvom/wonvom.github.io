@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Theme Tokens preview</title>
+  <desc id="desc">Sample portfolio media for light and dark theme tokens.</desc>
+  <rect width="1200" height="760" fill="#101311"/>
+  <rect x="120" y="130" width="440" height="500" rx="26" fill="#f7f4ea"/>
+  <rect x="640" y="130" width="440" height="500" rx="26" fill="#1b211d" stroke="#f7f4ea" stroke-width="8"/>
+  <circle cx="240" cy="270" r="58" fill="#ff735c"/>
+  <circle cx="340" cy="270" r="58" fill="#6a92ff"/>
+  <circle cx="440" cy="270" r="58" fill="#aab47b"/>
+  <circle cx="760" cy="270" r="58" fill="#ff735c"/>
+  <circle cx="860" cy="270" r="58" fill="#6a92ff"/>
+  <circle cx="960" cy="270" r="58" fill="#aab47b"/>
+</svg>
