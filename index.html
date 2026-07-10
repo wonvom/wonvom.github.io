@@ -3,6 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="no-referrer" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; base-uri 'self'; connect-src 'self' https://wonvom.goatcounter.com ws: wss:; font-src 'self'; form-action 'self'; frame-src 'none'; img-src 'self' data: https://wonvom.goatcounter.com; media-src 'self'; object-src 'none'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; worker-src 'self'"
+    />
     <meta name="description" content="김원종 포트폴리오. 제조 데이터 자동화와 사내 운영 시스템 구축 프로젝트를 케이스 스터디로 정리했습니다." />
     <meta property="og:title" content="WONJONG KIM Portfolio" />
     <meta property="og:description" content="제조 데이터 자동화, 사내 운영 시스템, 로컬 AI 비서 프로젝트 케이스 스터디" />
@@ -10,19 +15,18 @@
     <link rel="icon" href="/favicon.ico?v=2" sizes="32x32" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2" />
     <title>WONJONG KIM | Portfolio</title>
-    <script type="module" crossorigin src="/assets/index-CYySPrC8.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CJjCfdPI.css">
+    <script type="module" crossorigin src="/assets/index-CWqY1LBs.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Djboguat.css">
   </head>
   <body>
     <div id="root"></div>
-    <script data-goatcounter="https://wonvom.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-    <script>
-      // Count hash navigations (project case studies) as page views.
-      window.addEventListener("hashchange", function () {
-        if (window.goatcounter && window.goatcounter.count) {
-          window.goatcounter.count({ path: location.pathname + location.hash });
-        }
-      });
-    </script>
+    <script
+      data-goatcounter="https://wonvom.goatcounter.com/count"
+      async
+      crossorigin="anonymous"
+      integrity="sha384-2UjvVpptg4JlEVgJI2PdscrjOjPcil/4F1ZvIMJ81CShQnEDSlPI+l4PfogvTLYi"
+      referrerpolicy="no-referrer"
+      src="https://gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>
