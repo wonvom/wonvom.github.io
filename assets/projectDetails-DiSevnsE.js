@@ -2,7 +2,7 @@ var e=`테네시 프로젝트
 
 Tennessee Manufacturing Thickness Correlation Analysis
 
-2024.04 ~ 2025.03
+2024.05.29 ~ 2026.02.27
 
 1. 프로젝트 핵심 정리
 
